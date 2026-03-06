@@ -73,3 +73,18 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Unreal autosaves
+Saved/Autosaves/
+
+# Crash logs
+Saved/Crashes/
+
+# Rider / JetBrains
+.idea/
+
+# VSCode
+.vscode/
+
+# Mac
+.DS_Store
